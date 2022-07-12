@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I’m Joaquin Ignacio Gonzalez </h1>
 <ul>
   <li>👀 I’m interested in informatic and electronic</li>
-  <li>🌱 I’m currently learning java,javascripts, python, etc</li>
+  <li>🌱 I’m currently learning java,javascripts, python</li>
   <li>💞️ I’m looking to collaborate on any proyect of my interest</li>
   <li>📫 How to reach me visit my web page https://www.jigcomp.com.ar/</li>
   </ul>
